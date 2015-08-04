@@ -1,4 +1,5 @@
 ﻿Git is free software distributed under the GPL.
+I miss you every day
 Git has a mutable index called stage.
 
 Git is a version control system.
