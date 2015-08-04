@@ -15,4 +15,10 @@ If you really don't mean them
 When you say them
 而说出那些话语
 What are words
+
 那什么是承诺
+
+那什么是承诺
+
+you  should study hard people
+what are words  add you should study
