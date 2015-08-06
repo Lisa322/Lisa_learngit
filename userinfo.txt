@@ -15,4 +15,11 @@ git rm --cached readme.txt 只从stage中删除，保留物理文件
 git rm readme.txt 不但从stage中删除，同时删除物理文件
 
 git mv a.txt b.txt 把a.txt改名为b.txt
+
+
+$ cat readme.txt
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
  
