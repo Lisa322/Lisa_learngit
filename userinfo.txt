@@ -6,3 +6,13 @@ git add 跟踪新文件或者已有文件的改动，或者用来解决冲突
 git commit 把文件从stage提交到branch
 
 git commit -a 把修改的文件先提交到stage,然后再从stash提交到branch
+ 
+
+
+删除类命令 
+git rm --cached readme.txt 只从stage中删除，保留物理文件
+
+git rm readme.txt 不但从stage中删除，同时删除物理文件
+
+git mv a.txt b.txt 把a.txt改名为b.txt
+ 
